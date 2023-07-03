@@ -2,4 +2,4 @@
 string username = Console.ReadLine();
 Console.Write("oi, ye, ");
 Console.Write(username);
-Console.Writeline(111);
+Console.WriteLine(111);
